@@ -1,2 +1,4 @@
 This is a text file
 Git conflicts
+again making a change
+
