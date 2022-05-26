@@ -1,0 +1,8 @@
+This is a text file
+Git conflicts
+<<<<<<< HEAD
+Creating a conflict
+=======
+again making a change
+>>>>>>> 745b648a14995c29c8e4eed625245e585cd7c0fe
+
